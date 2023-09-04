@@ -1,0 +1,47 @@
+body{
+    background: #000000;
+}
+
+.container{
+    background: #262626;
+    color: azure;
+    margin: 40px;
+    padding: 40px;
+    width: 50vw;
+    border: 5px solid #c76262;
+    border-radius: 1rem;
+}
+
+.title-text{
+    color: aliceblue;
+}
+
+#sass{
+    color: pink;
+}
+
+#bts{
+    color:rgb(187, 37, 187);
+}
+
+footer{
+    color: rgb(116, 116, 116);
+    background: #161616;
+    margin-top: 3rem;
+    padding: 2.5rem;
+}
+
+
+/*
+1px = 1px de la pantalla
+
+1em = se usa para fuentes -> 16px
+
+1rem = 16px
+
+% = se basa en el tamaño del elemento padre.
+
+vw = es relativo al ancho del navegador 1vw es el 1% del navegador.
+
+vh = lo mismo que vw pero de altura.
+*/
