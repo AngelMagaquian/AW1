@@ -1,0 +1,64 @@
+/*
+por su etiqueta
+por su id
+por clase
+*/
+
+body{
+    background: #262626;
+}
+
+.sub-title{
+
+    color: rgb(180, 180, 180);
+}
+
+#title{
+    color: white;
+}
+
+.container{
+    background-color: #464646;
+    color: rgb(212, 212, 212) ;
+    
+    margin: 30px;
+    padding: 25px;
+
+    border: 5px solid rgb(190, 102, 102);
+    border-radius: 0px 30px 0px 30px;
+    width: 25%;
+
+    /*
+    1px
+    1em = 16px
+    1rem = 16px
+    % =
+    */
+}
+
+
+.btn{
+    height: 40px;
+    width: 4rem;
+    border-radius: 5px;
+    border: 0px;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+.btn-close{
+    background-color: rgb(206, 67, 67);
+}
+
+.btn-send{
+    background-color: rgb(95, 206, 67);
+}
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+}
+/*
+flex box
+grid system
+*/
