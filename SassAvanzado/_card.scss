@@ -1,0 +1,22 @@
+.card{
+    max-width: 380px;
+    padding: 2rem;
+    background-color: $color-sec;
+    border-radius: 20px;
+    box-shadow: -11px 10px 5px 0px rgba(0, 0, 0, 0.37);
+
+    img{
+        width: 100%;
+    }
+
+    .desc{
+        margin-top: 2rem;
+        font-size: smaller;
+    }
+
+    .card-footer{
+        display: flex;
+        margin-top: 2rem;
+        justify-content: space-around;
+    }
+}

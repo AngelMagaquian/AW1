@@ -1,0 +1,30 @@
+@function hoverColor($color, $percent ){
+    @return saturate($color, $percent);
+}
+
+
+/*Mixins*/
+@mixin customButton($width,$height,$borderRadius, $bg, $percent){
+    width: $width;
+    height: $height;
+    border-radius: $borderRadius;
+    border: 0px;
+    cursor: pointer;
+    background-color: $bg;
+    &:hover{
+        background-color: hoverColor($bg, $percent);
+        transition: all ease-in-out 0.3;
+    }
+}
+
+.btn-add{
+    @include customButton(30px, 30px, 100%, $color-green, 20%);
+}
+
+.btn-quit{
+    @include customButton(30px, 30px, 100%, $color-red, 20%);
+}
+
+.btn-warning{
+    @include customButton(100px, 45px, 5PX, #e2a128, 10%);
+}
