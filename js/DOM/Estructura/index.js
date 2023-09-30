@@ -1,0 +1,1 @@
+window.location.href = "./public_page/home/home.html"

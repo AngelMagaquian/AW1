@@ -1,0 +1,23 @@
+body {
+  background-color: #262626;
+}
+
+.container-1 {
+  width: 80%;
+}
+.container-1 h1 {
+  color: pink;
+}
+.container-1 p {
+  color: lightcoral;
+}
+
+.container-2 {
+  width: 50%;
+}
+.container-2 h1 {
+  color: blueviolet;
+}
+.container-2 p {
+  color: lightblue;
+}/*# sourceMappingURL=style.css.map */

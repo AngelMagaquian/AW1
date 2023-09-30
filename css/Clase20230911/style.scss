@@ -1,0 +1,33 @@
+$color : #262626;
+
+
+body{
+    background-color: $color;
+}
+
+
+
+
+.container-1{
+    width: 80%;
+    h1{
+        color: pink;
+    }
+
+    p{
+        color: lightcoral;
+    }
+}
+
+
+
+.container-2{
+    width: 50%;
+    h1{
+        color: blueviolet;
+    }
+
+    p{
+        color:lightblue;
+    }
+}
