@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Usuario1",
+      "lastName": "Apellido1",
+      "pass": "pass1",
+      "email": "usuario1@example.com",
+      "img": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png"
+    },
+    {
+      "name": "Usuario2",
+      "lastName": "Apellido2",
+      "pass": "pass2",
+      "email": "usuario2@example.com",
+      "img": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png"
+    },
+    {
+      "name": "Usuario3",
+      "lastName": "Apellido3",
+      "pass": "pass3",
+      "email": "usuario3@example.com",
+      "img": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png"
+    },
+    {
+      "name": "Usuario4",
+      "lastName": "Apellido4",
+      "pass": "pass4",
+      "email": "usuario4@example.com",
+      "img": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png"
+    },
+    {
+      "name": "Usuario5",
+      "lastName": "Apellido5",
+      "pass": "pass5",
+      "email": "usuario5@example.com",
+      "img": "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png"
+    }
+]

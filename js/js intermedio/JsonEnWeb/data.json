@@ -1,0 +1,230 @@
+[
+    {
+      "nombre": "Rick Sanchez",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 11
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Morty Smith",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 11
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Summer Smith",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 11
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Jerry Smith",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 11
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Beth Smith",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 11
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 10
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 10
+        }
+      ]
+    },
+    {
+      "nombre": "Birdperson",
+      "especie": "Alien",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 3
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 2
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 2
+        }
+      ]
+    },
+    {
+      "nombre": "Squanchy",
+      "especie": "Alien",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 2
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 2
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 2
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 1
+        }
+      ]
+    },
+    {
+      "nombre": "Scary Terry",
+      "especie": "Humano",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 5,
+          "totalEpisodios": 1
+        }
+      ]
+    },
+    {
+      "nombre": "Mr. Meeseeks",
+      "especie": "Meeseeks",
+      "temporadas": [
+        {
+          "numero": 1,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 2,
+          "totalEpisodios": 1
+        }
+      ]
+    },
+    {
+      "nombre": "Unity",
+      "especie": "Hivemind Alien",
+      "temporadas": [
+        {
+          "numero": 2,
+          "totalEpisodios": 2
+        },
+        {
+          "numero": 3,
+          "totalEpisodios": 1
+        },
+        {
+          "numero": 4,
+          "totalEpisodios": 1
+        }
+      ]
+    }
+]
